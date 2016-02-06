@@ -69,6 +69,7 @@
 <li>Trivial Proof</li>
 <li>Contradicton</li>
 <li>Proof by Equivalnces</li>
+</ul>
 <li> This is the part that I fully understand and now be able to Apply the things i learned from previous sessions.</li>
 <li> I also searched som sample problems in the internet. I was able to solve but i still took too much time.</li>
 #week five
