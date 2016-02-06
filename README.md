@@ -36,6 +36,43 @@
 <li> It also took me minutes just to solve a single problem of proving.</li>
 </ul>
 #week three
+<ul>
+<li>I was introduced to the Predicate Logic</li>
+<li>I realized that my life in engineering just got even harder(coming from ID 115)</li>
+<li> My tools in solving proof just got updated and now have a new thing called Quantifiers</li>
+<un>
+<li> Universal Quantifier</li>
+<li> Existential Quantifiers</li>
+</un>
+<li> I learned that DISMATH is not about proving, it is also disproving.</li>
+<li> I was also introduced to the rules of inference</li>
+<ul>
+<li>Modus Ponens</li>
+<li>Modus Tollens</li>
+<li>Hypothetical Syllogism</li>
+<li>Disjunctive Syllogism</li>
+<li>Addition</li>
+<li>Simplification</li>
+<li>Conjunction</li>
+<li>Resoluton</li>
+</ul>
+<li> I did not have enough sleep during this session so it took me more time to understand.</li>
+</ul>
+#week four
+<ul>
+<li>introduction to Proof</li>
+<li>I was also introduced to the different kind of proofs</li>
+<ul>
+<li>Direct Proof</li>
+<li>Contraposition</li>
+<li>Vacous Proof</li>
+<li>Trivial Proof</li>
+<li>Contradicton</li>
+<li>Proof by Equivalnces</li>
+<li> This is the part that I fully understand and now be able to Apply the things i learned from previous sessions.</li>
+<li> I also searched som sample problems in the internet. I was able to solve but i still took too much time.</li>
+#week five
+
 
 
 
