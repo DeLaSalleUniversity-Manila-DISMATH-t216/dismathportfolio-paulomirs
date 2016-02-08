@@ -73,6 +73,11 @@
 <li> This is the part that I fully understand and now be able to Apply the things i learned from previous sessions.</li>
 <li> I also searched som sample problems in the internet. I was able to solve but i still took too much time.</li>
 #week five
+<ul>
+<li>I was introduced to Mathematical Induction.</li>
+<li>Application of the methods of proving.</li>
+<li>At the moment that it was being discussed, i realized that even though i studied and and become able to solve the examples I was wrong again. This topic became even more scary when the prof said that one number could use up to one whole page of yellow paper.</li>\
+<li> The easy part of week 5 is the inductive definition. it is easy because it is only a definition, therefore NO PROVING.</li>
 
 
 
