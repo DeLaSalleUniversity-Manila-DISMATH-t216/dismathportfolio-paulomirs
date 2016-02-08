@@ -3,7 +3,7 @@
 <ul><li> INTRODUCTION TO DISMATH </li>
 <li> Basic knowledge of the subject</li>
 <li> Credentials of the professor</li>
-<li> i realized i study in advance</li>
+<li> i realized i need to study in advance</li>
 </ul>
 # week two
 <ul>
