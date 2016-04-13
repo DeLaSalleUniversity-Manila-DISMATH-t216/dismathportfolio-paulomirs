@@ -1,4 +1,4 @@
-# dismathportfolio-paulomirs
+# dismathportfolio-MIRANDA, JOHANNE PAULO S.
 # week one
 <ul><li> INTRODUCTION TO DISMATH </li>
 <li> Basic knowledge of the subject</li>
@@ -78,6 +78,90 @@
 <li>Application of the methods of proving.</li>
 <li>At the moment that it was being discussed, i realized that even though i studied and and become able to solve the examples I was wrong again. This topic became even more scary when the prof said that one number could use up to one whole page of yellow paper.</li>\
 <li> The easy part of week 5 is the inductive definition. it is easy because it is only a definition, therefore NO PROVING.</li>
+<br>
+#week six
+<ul>
+<li>Introduction to functions</li>
+<ul>
+<li>A function is having only one value for x for each y.</li>
+<li>different types of function and their differences.</li>
+</ul>
+<br>
+#week seven
+<ul>
+<li>Sadly, we do not have any classes for DISMATH :(</li>
+</ul>
+<br>
+#week eight
+<ul>
+<li>Introduction to Algorithms</li>
+<ul>
+<li>Linear search algorithms</li>
+<li>Binary search algorithms</li>
+</ul>
+<li> and how to operate them</li>
+<ul>
+<li>Finding the maximum</li>
+<li> finding the minimum</li>
+<li>finding the mean</li>
+</ul>
+<li>Pseudocode</li>
+<ul>
+<li>The Heart of the code</li>
+<li>It is where you can see how many times the code will run or loop</li>
+</ul>
+</ul>
+<br>
+#week nine
+<ul>
+<li>Sorting algorithms</li>
+<ul>
+<li>Bubble Sort-comparing the values to its adjacents</li>
+<li>Insertion Sort-inserts specific element to its proper order</li>
+</ul>
+<li>Greedy algorithms</li>
+</ul>
+<br>
+#week ten
+<ul>
+<li>Big-O notation</li>
+<li>Big theta notation</li>
+<li>Big omega notation</li>
+</ul>
+<br>
+#week eleven
+<ul>
+<li>Graph theory</li>
+<ul>
+<li>graph</li>
+<li>applications</li>
+</ul>
+<li>handshake theorem</li>
+<li>isomorphism of graphs</li>
+</ul>
+<br>
+#week twelve
+<ul>
+<li>Planar graphs</li>
+<li>how to determine if a graph is planar</li>
+<li>euler's formula</li>
+<br>
+<li>homeomorphic graphs</li>
+<li>elementary subdivision</li>
+<li>kuratowski's theorem</li>
+<li>Matrices</li>
+</ul>
+<br>
+#week thirteen
+<ul>
+<li>graph coloring</li>
+<li>four color theorem</li>
+<li>trees-undirected graph</li>
+<li>forest-multiple trees</li>
+<li>rooted tree</li>
+<li>m-ary tree</li>
+</ul>
+
 
 
 
